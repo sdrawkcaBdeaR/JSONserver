@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "name": "mo salah",
+      "team": "liverpool",
+      "id": 5
+    },
+    {
+      "name": "messi",
+      "team": "barca",
+      "id": 6
+    },
+    {
+      "name": "ronaldo",
+      "team": "real madrid",
+      "id": 7
+    }
+  ]
+}
